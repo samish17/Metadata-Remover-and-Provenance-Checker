@@ -1,0 +1,3 @@
+install the requirements using teh following code:
+
+pip install pillow pymupdf python-docx openpyxl hachoir
